@@ -1,0 +1,7 @@
+{
+  "modelo": "sentence-transformers/all-MiniLM-L6-v2",
+  "limiar": 0.7,
+  "recall1": 0.9,
+  "recall3": 1.0,
+  "acuracia": 0.94
+}

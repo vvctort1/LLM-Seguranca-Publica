@@ -1,0 +1,36 @@
+{
+  "A": {
+    "acerto_total": "16/50 (32%)",
+    "json_valido": "19/50 (38%)",
+    "fonte_correta": "0/30 (0%)",
+    "campos_corretos": "0/30 (0%)",
+    "recusa_correta": "16/20 (80%)",
+    "alucinacao": "31/50 (62%)"
+  },
+  "B": {
+    "acerto_total": "34/50 (68%)",
+    "json_valido": "46/50 (92%)",
+    "fonte_correta": "27/30 (90%)",
+    "campos_corretos": "14/30 (47%)",
+    "recusa_correta": "20/20 (100%)",
+    "alucinacao": "14/50 (28%)",
+    "extracao_30": "11/30 (37%)",
+    "extracao_variacao": "5/15 (33%)",
+    "extracao_inedita": "6/15 (40%)",
+    "extracao_recusa": "4/4 (100%)",
+    "extracao_json_valido": "29/30 (97%)"
+  },
+  "C": {
+    "acerto_total": "45/50 (90%)",
+    "json_valido": "50/50 (100%)",
+    "fonte_correta": "27/30 (90%)",
+    "campos_corretos": "25/30 (83%)",
+    "recusa_correta": "20/20 (100%)",
+    "alucinacao": "3/50 (6%)",
+    "extracao_30": "23/30 (77%)",
+    "extracao_variacao": "13/15 (87%)",
+    "extracao_inedita": "10/15 (67%)",
+    "extracao_recusa": "4/4 (100%)",
+    "extracao_json_valido": "29/30 (97%)"
+  }
+}

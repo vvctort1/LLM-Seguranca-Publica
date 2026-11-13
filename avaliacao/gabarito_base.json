@@ -1,0 +1,802 @@
+{
+  "BO-1825": {
+    "local": "avenida paulista",
+    "crime": "sequestro",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-1825"
+  },
+  "BO-0410": {
+    "local": "ponto de ônibus",
+    "crime": "furto",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-0410"
+  },
+  "BO-4507": {
+    "local": "metro consolação",
+    "crime": "roubo",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "lesao",
+    "fonte": "BO-4507"
+  },
+  "BO-4013": {
+    "local": "rua augusta",
+    "crime": "sequestro",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-4013"
+  },
+  "BO-3658": {
+    "local": "rua de trás",
+    "crime": "vandalismo",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-3658"
+  },
+  "BO-2287": {
+    "local": "praça da sé",
+    "crime": "assalto",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-2287"
+  },
+  "BO-1680": {
+    "local": "estacionamento do shopping",
+    "crime": "assalto",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-1680"
+  },
+  "BO-8936": {
+    "local": "rua augusta",
+    "crime": "vandalismo",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-8936"
+  },
+  "BO-1425": {
+    "local": "rua augusta",
+    "crime": "agressão",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-1425"
+  },
+  "BO-9675": {
+    "local": "ponto de ônibus",
+    "crime": "furto",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "lesao",
+    "fonte": "BO-9675"
+  },
+  "BO-6913": {
+    "local": "praça da sé",
+    "crime": "ameaça",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "lesao",
+    "fonte": "BO-6913"
+  },
+  "BO-0521": {
+    "local": "metro consolação",
+    "crime": "ameaça",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "lesao",
+    "fonte": "BO-0521"
+  },
+  "BO-0489": {
+    "local": "praça da sé",
+    "crime": "homicídio",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "lesao",
+    "fonte": "BO-0489"
+  },
+  "BO-1536": {
+    "local": "centro da cidade",
+    "crime": "assalto",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "lesao",
+    "fonte": "BO-1536"
+  },
+  "BO-3583": {
+    "local": "rua augusta",
+    "crime": "vandalismo",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "lesao",
+    "fonte": "BO-3583"
+  },
+  "BO-3812": {
+    "local": "avenida paulista",
+    "crime": "agressão",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "lesao",
+    "fonte": "BO-3812"
+  },
+  "BO-8280": {
+    "local": "ponto de ônibus",
+    "crime": "latrocínio",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-8280"
+  },
+  "BO-9864": {
+    "local": "centro da cidade",
+    "crime": "agressão",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "lesao",
+    "fonte": "BO-9864"
+  },
+  "BO-0435": {
+    "local": "ponto de ônibus",
+    "crime": "homicídio",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-0435"
+  },
+  "BO-9196": {
+    "local": "praça da sé",
+    "crime": "agressão",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "lesao",
+    "fonte": "BO-9196"
+  },
+  "BO-3258": {
+    "local": "praça da sé",
+    "crime": "assalto",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "lesao",
+    "fonte": "BO-3258"
+  },
+  "BO-8929": {
+    "local": "metro consolação",
+    "crime": "roubo",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "lesao",
+    "fonte": "BO-8929"
+  },
+  "BO-6874": {
+    "local": "ponto de ônibus",
+    "crime": "latrocínio",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "lesao",
+    "fonte": "BO-6874"
+  },
+  "BO-3612": {
+    "local": "rua augusta",
+    "crime": "vandalismo",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-3612"
+  },
+  "BO-7360": {
+    "local": "rua de trás",
+    "crime": "homicídio",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "lesao",
+    "fonte": "BO-7360"
+  },
+  "BO-9655": {
+    "local": "rua de trás",
+    "crime": "ameaça",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-9655"
+  },
+  "BO-4558": {
+    "local": "centro da cidade",
+    "crime": "roubo",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "lesao",
+    "fonte": "BO-4558"
+  },
+  "BO-0107": {
+    "local": "rua de trás",
+    "crime": "ameaça",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "lesao",
+    "fonte": "BO-0107"
+  },
+  "BO-2616": {
+    "local": "ponto de ônibus",
+    "crime": "homicídio",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-2616"
+  },
+  "BO-6925": {
+    "local": "rua augusta",
+    "crime": "sequestro",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-6925"
+  },
+  "BO-5575": {
+    "local": "centro da cidade",
+    "crime": "homicídio",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-5575"
+  },
+  "BO-4553": {
+    "local": "metro consolação",
+    "crime": "roubo",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "lesao",
+    "fonte": "BO-4553"
+  },
+  "BO-2548": {
+    "local": "metro consolação",
+    "crime": "homicídio",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-2548"
+  },
+  "BO-3528": {
+    "local": "centro da cidade",
+    "crime": "vandalismo",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-3528"
+  },
+  "BO-5515": {
+    "local": "praça da sé",
+    "crime": "furto",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "lesao",
+    "fonte": "BO-5515"
+  },
+  "BO-1675": {
+    "local": "rua de trás",
+    "crime": "latrocínio",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-1675"
+  },
+  "BO-1520": {
+    "local": "rua de trás",
+    "crime": "agressão",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "lesao",
+    "fonte": "BO-1520"
+  },
+  "BO-6225": {
+    "local": "ponto de ônibus",
+    "crime": "latrocínio",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "lesao",
+    "fonte": "BO-6225"
+  },
+  "BO-1585": {
+    "local": "praça da sé",
+    "crime": "ameaça",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "lesao",
+    "fonte": "BO-1585"
+  },
+  "BO-5882": {
+    "local": "centro da cidade",
+    "crime": "agressão",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "lesao",
+    "fonte": "BO-5882"
+  },
+  "BO-5636": {
+    "local": "praça da sé",
+    "crime": "agressão",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "lesao",
+    "fonte": "BO-5636"
+  },
+  "BO-9892": {
+    "local": "metro consolação",
+    "crime": "assalto",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-9892"
+  },
+  "BO-4334": {
+    "local": "metro consolação",
+    "crime": "homicídio",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "lesao",
+    "fonte": "BO-4334"
+  },
+  "BO-0712": {
+    "local": "rua de trás",
+    "crime": "agressão",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-0712"
+  },
+  "BO-7528": {
+    "local": "ponto de ônibus",
+    "crime": "ameaça",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-7528"
+  },
+  "BO-8786": {
+    "local": "rua de trás",
+    "crime": "furto",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-8786"
+  },
+  "BO-2046": {
+    "local": "estacionamento do shopping",
+    "crime": "assalto",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-2046"
+  },
+  "BO-6202": {
+    "local": "metro consolação",
+    "crime": "assalto",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "lesao",
+    "fonte": "BO-6202"
+  },
+  "BO-1292": {
+    "local": "avenida paulista",
+    "crime": "furto",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "lesao",
+    "fonte": "BO-1292"
+  },
+  "BO-9045": {
+    "local": "ponto de ônibus",
+    "crime": "ameaça",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "lesao",
+    "fonte": "BO-9045"
+  },
+  "BO-4804": {
+    "local": "centro da cidade",
+    "crime": "agressão",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "lesao",
+    "fonte": "BO-4804"
+  },
+  "BO-5926": {
+    "local": "avenida paulista",
+    "crime": "assalto",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-5926"
+  },
+  "BO-9460": {
+    "local": "metro consolação",
+    "crime": "assalto",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "lesao",
+    "fonte": "BO-9460"
+  },
+  "BO-3151": {
+    "local": "avenida paulista",
+    "crime": "latrocínio",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-3151"
+  },
+  "BO-1140": {
+    "local": "ponto de ônibus",
+    "crime": "latrocínio",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-1140"
+  },
+  "BO-0751": {
+    "local": "avenida paulista",
+    "crime": "roubo",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-0751"
+  },
+  "BO-3734": {
+    "local": "avenida paulista",
+    "crime": "roubo",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-3734"
+  },
+  "BO-4742": {
+    "local": "rua augusta",
+    "crime": "latrocínio",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-4742"
+  },
+  "BO-1308": {
+    "local": "rua de trás",
+    "crime": "agressão",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "lesao",
+    "fonte": "BO-1308"
+  },
+  "BO-3815": {
+    "local": "metro consolação",
+    "crime": "furto",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "lesao",
+    "fonte": "BO-3815"
+  },
+  "BO-1655": {
+    "local": "estacionamento do shopping",
+    "crime": "agressão",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-1655"
+  },
+  "BO-6228": {
+    "local": "rua augusta",
+    "crime": "roubo",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-6228"
+  },
+  "BO-4555": {
+    "local": "praça da sé",
+    "crime": "ameaça",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "lesao",
+    "fonte": "BO-4555"
+  },
+  "BO-7429": {
+    "local": "metro consolação",
+    "crime": "ameaça",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-7429"
+  },
+  "BO-5978": {
+    "local": "rua augusta",
+    "crime": "homicídio",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "lesao",
+    "fonte": "BO-5978"
+  },
+  "BO-2665": {
+    "local": "rua de trás",
+    "crime": "roubo",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-2665"
+  },
+  "BO-6066": {
+    "local": "rua de trás",
+    "crime": "homicídio",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "lesao",
+    "fonte": "BO-6066"
+  },
+  "BO-5821": {
+    "local": "metro consolação",
+    "crime": "sequestro",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-5821"
+  },
+  "BO-3433": {
+    "local": "ponto de ônibus",
+    "crime": "homicídio",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-3433"
+  },
+  "BO-4375": {
+    "local": "avenida paulista",
+    "crime": "homicídio",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "lesao",
+    "fonte": "BO-4375"
+  },
+  "BO-1170": {
+    "local": "ponto de ônibus",
+    "crime": "sequestro",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-1170"
+  },
+  "BO-9981": {
+    "local": "metro consolação",
+    "crime": "latrocínio",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-9981"
+  },
+  "BO-2804": {
+    "local": "estacionamento do shopping",
+    "crime": "roubo",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-2804"
+  },
+  "BO-8752": {
+    "local": "rua augusta",
+    "crime": "latrocínio",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "lesao",
+    "fonte": "BO-8752"
+  },
+  "BO-4011": {
+    "local": "rua de trás",
+    "crime": "ameaça",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-4011"
+  },
+  "BO-2678": {
+    "local": "metro consolação",
+    "crime": "sequestro",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-2678"
+  },
+  "BO-7574": {
+    "local": "praça da sé",
+    "crime": "sequestro",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "lesao",
+    "fonte": "BO-7574"
+  },
+  "BO-6217": {
+    "local": "estacionamento do shopping",
+    "crime": "sequestro",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-6217"
+  },
+  "BO-4423": {
+    "local": "estacionamento do shopping",
+    "crime": "assalto",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-4423"
+  },
+  "BO-9126": {
+    "local": "rua de trás",
+    "crime": "ameaça",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-9126"
+  },
+  "BO-3599": {
+    "local": "rua augusta",
+    "crime": "homicídio",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-3599"
+  },
+  "BO-5314": {
+    "local": "rua augusta",
+    "crime": "latrocínio",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "lesao",
+    "fonte": "BO-5314"
+  },
+  "BO-0917": {
+    "local": "avenida paulista",
+    "crime": "latrocínio",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-0917"
+  },
+  "BO-3753": {
+    "local": "estacionamento do shopping",
+    "crime": "vandalismo",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-3753"
+  },
+  "BO-0526": {
+    "local": "ponto de ônibus",
+    "crime": "agressão",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "lesao",
+    "fonte": "BO-0526"
+  },
+  "BO-5169": {
+    "local": "metro consolação",
+    "crime": "latrocínio",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-5169"
+  },
+  "BO-6573": {
+    "local": "metro consolação",
+    "crime": "homicídio",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "lesao",
+    "fonte": "BO-6573"
+  },
+  "BO-4387": {
+    "local": "ponto de ônibus",
+    "crime": "furto",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "lesao",
+    "fonte": "BO-4387"
+  },
+  "BO-1085": {
+    "local": "ponto de ônibus",
+    "crime": "vandalismo",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-1085"
+  },
+  "BO-3457": {
+    "local": "rua de trás",
+    "crime": "homicídio",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-3457"
+  },
+  "BO-9293": {
+    "local": "rua de trás",
+    "crime": "homicídio",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "lesao",
+    "fonte": "BO-9293"
+  },
+  "BO-5156": {
+    "local": "metro consolação",
+    "crime": "sequestro",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "lesao",
+    "fonte": "BO-5156"
+  },
+  "BO-3484": {
+    "local": "centro da cidade",
+    "crime": "roubo",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "lesao",
+    "fonte": "BO-3484"
+  },
+  "BO-8180": {
+    "local": "metro consolação",
+    "crime": "vandalismo",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-8180"
+  },
+  "BO-6483": {
+    "local": "estacionamento do shopping",
+    "crime": "vandalismo",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-6483"
+  },
+  "BO-7518": {
+    "local": "centro da cidade",
+    "crime": "furto",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-7518"
+  },
+  "BO-2341": {
+    "local": "avenida paulista",
+    "crime": "homicídio",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "sem_lesao",
+    "fonte": "BO-2341"
+  },
+  "BO-4340": {
+    "local": "ponto de ônibus",
+    "crime": "latrocínio",
+    "arma": false,
+    "tipo_arma": "desarmado",
+    "estado_vitima": "lesao",
+    "fonte": "BO-4340"
+  },
+  "BO-2288": {
+    "local": "avenida paulista",
+    "crime": "homicídio",
+    "arma": true,
+    "tipo_arma": "branca",
+    "estado_vitima": "fatalidade",
+    "fonte": "BO-2288"
+  },
+  "BO-4041": {
+    "local": "estacionamento do shopping",
+    "crime": "agressão",
+    "arma": true,
+    "tipo_arma": "fogo",
+    "estado_vitima": "lesao",
+    "fonte": "BO-4041"
+  }
+}

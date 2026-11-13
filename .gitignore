@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+projeto-llm-local.code-workspace
+
+
+# Ambientes virtuais
+venv/
+env/
+.env

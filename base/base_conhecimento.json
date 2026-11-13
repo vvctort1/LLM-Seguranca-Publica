@@ -1,0 +1,702 @@
+[
+  {
+    "id_bo": "BO-1825",
+    "texto": "Aconteceu um sequestro na avenida paulista. O bandido tava com um pedaço de pau. tá morto.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-0410",
+    "texto": "Aconteceu um furto na ponto de ônibus. O bandido tava com só no grito. tá todo mundo bem.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-4507",
+    "texto": "Aconteceu um roubo na metro consolação. O bandido tava com uma pistola. tá sangrando.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-4013",
+    "texto": "Aconteceu um sequestro na rua augusta. O bandido tava com uma pistola. só o susto mesmo.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-3658",
+    "texto": "Aconteceu um vandalismo na rua de trás. O bandido tava com só no grito. mataram ele.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-2287",
+    "texto": "Aconteceu um assalto na praça da sé. O bandido tava com só no grito. mataram ele.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-1680",
+    "texto": "Aconteceu um assalto na estacionamento do shopping. O bandido tava com um facão. só o susto mesmo.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-8936",
+    "texto": "Aconteceu um vandalismo na rua augusta. O bandido tava com um 38. mataram ele.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-1425",
+    "texto": "Aconteceu um agressão na rua augusta. O bandido tava com uma pistola. mataram ele.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-9675",
+    "texto": "Aconteceu um furto na ponto de ônibus. O bandido tava com uma peixeira. tá sangrando.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-6913",
+    "texto": "Aconteceu um ameaça na praça da sé. O bandido tava com na mão grande. tomei um soco.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-0521",
+    "texto": "Aconteceu um ameaça na metro consolação. O bandido tava com um facão. foi esfaqueado.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-0489",
+    "texto": "Aconteceu um homicídio na praça da sé. O bandido tava com uma pistola. me cortou.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-1536",
+    "texto": "Aconteceu um assalto na centro da cidade. O bandido tava com só no grito. tá sangrando.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-3583",
+    "texto": "Aconteceu um vandalismo na rua augusta. O bandido tava com só no grito. tá sangrando.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-3812",
+    "texto": "Aconteceu um agressão na avenida paulista. O bandido tava com um pedaço de pau. foi esfaqueado.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-8280",
+    "texto": "Aconteceu um latrocínio na ponto de ônibus. O bandido tava com um pedaço de pau. tá morto.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-9864",
+    "texto": "Aconteceu um agressão na centro da cidade. O bandido tava com na mão grande. me cortou.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-0435",
+    "texto": "Aconteceu um homicídio na ponto de ônibus. O bandido tava com uma pistola. tá morto.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-9196",
+    "texto": "Aconteceu um agressão na praça da sé. O bandido tava com uma faca. foi esfaqueado.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-3258",
+    "texto": "Aconteceu um assalto na praça da sé. O bandido tava com um 38. foi esfaqueado.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-8929",
+    "texto": "Aconteceu um roubo na metro consolação. O bandido tava com uma peixeira. me cortou.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-6874",
+    "texto": "Aconteceu um latrocínio na ponto de ônibus. O bandido tava com na mão grande. foi esfaqueado.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-3612",
+    "texto": "Aconteceu um vandalismo na rua augusta. O bandido tava com uma faca. tá todo mundo bem.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-7360",
+    "texto": "Aconteceu um homicídio na rua de trás. O bandido tava com uma pistola. me cortou.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-9655",
+    "texto": "Aconteceu um ameaça na rua de trás. O bandido tava com um pedaço de pau. só o susto mesmo.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-4558",
+    "texto": "Aconteceu um roubo na centro da cidade. O bandido tava com uma pistola. tomei um soco.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-0107",
+    "texto": "Aconteceu um ameaça na rua de trás. O bandido tava com uma pistola. foi esfaqueado.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-2616",
+    "texto": "Aconteceu um homicídio na ponto de ônibus. O bandido tava com só no grito. tá todo mundo bem.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-6925",
+    "texto": "Aconteceu um sequestro na rua augusta. O bandido tava com um revólver. mataram ele.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-5575",
+    "texto": "Aconteceu um homicídio na centro da cidade. O bandido tava com uma pistola. tá todo mundo bem.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-4553",
+    "texto": "Aconteceu um roubo na metro consolação. O bandido tava com só no grito. tomei um soco.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-2548",
+    "texto": "Aconteceu um homicídio na metro consolação. O bandido tava com um revólver. só o susto mesmo.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-3528",
+    "texto": "Aconteceu um vandalismo na centro da cidade. O bandido tava com uma faca. só o susto mesmo.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-5515",
+    "texto": "Aconteceu um furto na praça da sé. O bandido tava com um pedaço de pau. tomei um soco.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-1675",
+    "texto": "Aconteceu um latrocínio na rua de trás. O bandido tava com na mão grande. mataram ele.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-1520",
+    "texto": "Aconteceu um agressão na rua de trás. O bandido tava com na mão grande. tá sangrando.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-6225",
+    "texto": "Aconteceu um latrocínio na ponto de ônibus. O bandido tava com uma faca. tomei um soco.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-1585",
+    "texto": "Aconteceu um ameaça na praça da sé. O bandido tava com um 38. tomei um soco.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-5882",
+    "texto": "Aconteceu um agressão na centro da cidade. O bandido tava com só no grito. tá sangrando.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-5636",
+    "texto": "Aconteceu um agressão na praça da sé. O bandido tava com uma pistola. tá sangrando.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-9892",
+    "texto": "Aconteceu um assalto na metro consolação. O bandido tava com uma faca. só o susto mesmo.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-4334",
+    "texto": "Aconteceu um homicídio na metro consolação. O bandido tava com um 38. me cortou.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-0712",
+    "texto": "Aconteceu um agressão na rua de trás. O bandido tava com uma peixeira. mataram ele.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-7528",
+    "texto": "Aconteceu um ameaça na ponto de ônibus. O bandido tava com uma faca. mataram ele.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-8786",
+    "texto": "Aconteceu um furto na rua de trás. O bandido tava com um facão. tá todo mundo bem.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-2046",
+    "texto": "Aconteceu um assalto na estacionamento do shopping. O bandido tava com um 38. tá todo mundo bem.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-6202",
+    "texto": "Aconteceu um assalto na metro consolação. O bandido tava com só no grito. foi esfaqueado.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-1292",
+    "texto": "Aconteceu um furto na avenida paulista. O bandido tava com uma peixeira. me cortou.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-9045",
+    "texto": "Aconteceu um ameaça na ponto de ônibus. O bandido tava com um facão. tá sangrando.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-4804",
+    "texto": "Aconteceu um agressão na centro da cidade. O bandido tava com um facão. tomei um soco.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-5926",
+    "texto": "Aconteceu um assalto na avenida paulista. O bandido tava com um revólver. mataram ele.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-9460",
+    "texto": "Aconteceu um assalto na metro consolação. O bandido tava com só no grito. tá sangrando.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-3151",
+    "texto": "Aconteceu um latrocínio na avenida paulista. O bandido tava com uma faca. tá morto.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-1140",
+    "texto": "Aconteceu um latrocínio na ponto de ônibus. O bandido tava com só no grito. tá todo mundo bem.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-0751",
+    "texto": "Aconteceu um roubo na avenida paulista. O bandido tava com uma pistola. só o susto mesmo.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-3734",
+    "texto": "Aconteceu um roubo na avenida paulista. O bandido tava com um 38. tá morto.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-4742",
+    "texto": "Aconteceu um latrocínio na rua augusta. O bandido tava com um revólver. tá todo mundo bem.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-1308",
+    "texto": "Aconteceu um agressão na rua de trás. O bandido tava com um 38. me cortou.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-3815",
+    "texto": "Aconteceu um furto na metro consolação. O bandido tava com só no grito. tomei um soco.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-1655",
+    "texto": "Aconteceu um agressão na estacionamento do shopping. O bandido tava com um revólver. só o susto mesmo.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-6228",
+    "texto": "Aconteceu um roubo na rua augusta. O bandido tava com um facão. tá morto.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-4555",
+    "texto": "Aconteceu um ameaça na praça da sé. O bandido tava com uma faca. foi esfaqueado.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-7429",
+    "texto": "Aconteceu um ameaça na metro consolação. O bandido tava com só no grito. só o susto mesmo.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-5978",
+    "texto": "Aconteceu um homicídio na rua augusta. O bandido tava com um revólver. tá sangrando.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-2665",
+    "texto": "Aconteceu um roubo na rua de trás. O bandido tava com um revólver. tá morto.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-6066",
+    "texto": "Aconteceu um homicídio na rua de trás. O bandido tava com um facão. tá sangrando.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-5821",
+    "texto": "Aconteceu um sequestro na metro consolação. O bandido tava com um 38. tá todo mundo bem.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-3433",
+    "texto": "Aconteceu um homicídio na ponto de ônibus. O bandido tava com na mão grande. tá morto.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-4375",
+    "texto": "Aconteceu um homicídio na avenida paulista. O bandido tava com uma faca. tomei um soco.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-1170",
+    "texto": "Aconteceu um sequestro na ponto de ônibus. O bandido tava com uma peixeira. mataram ele.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-9981",
+    "texto": "Aconteceu um latrocínio na metro consolação. O bandido tava com uma peixeira. só o susto mesmo.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-2804",
+    "texto": "Aconteceu um roubo na estacionamento do shopping. O bandido tava com uma pistola. mataram ele.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-8752",
+    "texto": "Aconteceu um latrocínio na rua augusta. O bandido tava com um 38. me cortou.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-4011",
+    "texto": "Aconteceu um ameaça na rua de trás. O bandido tava com uma peixeira. só o susto mesmo.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-2678",
+    "texto": "Aconteceu um sequestro na metro consolação. O bandido tava com uma faca. mataram ele.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-7574",
+    "texto": "Aconteceu um sequestro na praça da sé. O bandido tava com um 38. foi esfaqueado.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-6217",
+    "texto": "Aconteceu um sequestro na estacionamento do shopping. O bandido tava com uma pistola. tá morto.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-4423",
+    "texto": "Aconteceu um assalto na estacionamento do shopping. O bandido tava com um facão. mataram ele.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-9126",
+    "texto": "Aconteceu um ameaça na rua de trás. O bandido tava com um pedaço de pau. mataram ele.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-3599",
+    "texto": "Aconteceu um homicídio na rua augusta. O bandido tava com um pedaço de pau. só o susto mesmo.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-5314",
+    "texto": "Aconteceu um latrocínio na rua augusta. O bandido tava com um pedaço de pau. tomei um soco.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-0917",
+    "texto": "Aconteceu um latrocínio na avenida paulista. O bandido tava com uma faca. só o susto mesmo.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-3753",
+    "texto": "Aconteceu um vandalismo na estacionamento do shopping. O bandido tava com na mão grande. tá todo mundo bem.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-0526",
+    "texto": "Aconteceu um agressão na ponto de ônibus. O bandido tava com na mão grande. tá sangrando.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-5169",
+    "texto": "Aconteceu um latrocínio na metro consolação. O bandido tava com só no grito. tá morto.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-6573",
+    "texto": "Aconteceu um homicídio na metro consolação. O bandido tava com um facão. foi esfaqueado.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-4387",
+    "texto": "Aconteceu um furto na ponto de ônibus. O bandido tava com um 38. tomei um soco.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-1085",
+    "texto": "Aconteceu um vandalismo na ponto de ônibus. O bandido tava com uma pistola. tá todo mundo bem.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-3457",
+    "texto": "Aconteceu um homicídio na rua de trás. O bandido tava com um pedaço de pau. tá todo mundo bem.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-9293",
+    "texto": "Aconteceu um homicídio na rua de trás. O bandido tava com um revólver. tomei um soco.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-5156",
+    "texto": "Aconteceu um sequestro na metro consolação. O bandido tava com uma faca. tá sangrando.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-3484",
+    "texto": "Aconteceu um roubo na centro da cidade. O bandido tava com só no grito. foi esfaqueado.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-8180",
+    "texto": "Aconteceu um vandalismo na metro consolação. O bandido tava com um revólver. tá todo mundo bem.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-6483",
+    "texto": "Aconteceu um vandalismo na estacionamento do shopping. O bandido tava com só no grito. só o susto mesmo.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-7518",
+    "texto": "Aconteceu um furto na centro da cidade. O bandido tava com na mão grande. tá todo mundo bem.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-2341",
+    "texto": "Aconteceu um homicídio na avenida paulista. O bandido tava com um facão. tá todo mundo bem.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-4340",
+    "texto": "Aconteceu um latrocínio na ponto de ônibus. O bandido tava com na mão grande. me cortou.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-2288",
+    "texto": "Aconteceu um homicídio na avenida paulista. O bandido tava com um facão. tá morto.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  },
+  {
+    "id_bo": "BO-4041",
+    "texto": "Aconteceu um agressão na estacionamento do shopping. O bandido tava com uma pistola. tá sangrando.",
+    "fonte": "Boletim de ocorrência sintético (gerado por src/gerar_dados.py, seed 42)",
+    "formato": "JSON (id_bo, texto)",
+    "licenca": "MIT — dados sintéticos criados pelo projeto, sem dados pessoais"
+  }
+]
